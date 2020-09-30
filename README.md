@@ -1,12 +1,11 @@
 # OPENCV-PROJECTS
-OPEN-CV Projects
 
 [![Generic badge](https://img.shields.io/badge/OPEN-CV-BLUE.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/IMAGE-PROCESSING-<BLUE>.svg)](https://shields.io/}
+[![Generic badge](https://img.shields.io/badge/IMAGE-PROCESSING-<BLUE>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/COMPUTER-VISION-<BLUE>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/LANGUAGE-PYTHON-<BLUE>.svg)](https://shields.io/)
 
-#Problem Statements
+# Problem Statements
 
 1: 
 Create Panarama stitching for two images.<br/>
