@@ -30,3 +30,5 @@ Butterworth reject filter.</br>
 
 8:
 Degrade a image and recover the image from the degraded image with the help of given degraded function.</br>
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
